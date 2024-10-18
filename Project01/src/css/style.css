@@ -1,0 +1,47 @@
+body{
+    background: #98981634;
+}
+
+.chapter{
+    color: red;
+    text-align: center;
+}
+
+.untext{
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.tilted{
+    font-style: italic;
+}
+
+p{
+    font-size: 14px;
+}
+ 
+img{
+   display: block;
+   margin: 0 auto;
+
+}
+
+.block{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    padding: 10px 50px 10px 50px;
+    border: 10px solid black;
+    margin: 50px 50px 50px 50px;
+}
+
+.red{
+
+    background-color: red;
+}
